@@ -22,7 +22,8 @@ The goal is to strengthen problem-solving skills and prepare for **coding interv
 - Find minimum element  
 - Find maximum element  
 - Reverse an array  
-- Count even and odd numbers  
+- Count even and odd numbers
+- Sum of Elements
 
 *(More array problems will be added as I continue my practice)*
 
@@ -45,3 +46,4 @@ The goal is to strengthen problem-solving skills and prepare for **coding interv
 - Learn and practice **Linked Lists, Stacks, Queues, Trees, Graphs**  
 - Regularly attempt problems on **LeetCode, GeeksforGeeks, Codeforces**  
 - Master **time and space complexity analysis**  
+
