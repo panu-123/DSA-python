@@ -1,9 +1,13 @@
 # DSA in Python 🚀
 
-This repository contains my daily practice of
-Data Structures and Algorithms using Python.
+This repository contains my daily practice of  
+**Data Structures and Algorithms (DSA)** using **Python**.
 
-## Folder Structure
+📅 Started: January 2026
+
+---
+
+## 📂 Folder Structure
 - Arrays
 - Strings
 - Searching
@@ -11,8 +15,26 @@ Data Structures and Algorithms using Python.
 - Hashing
 - Recursion
 
-📅 Started: January 2026
+---
 
-### Arrays
+## 📘 Arrays
+Problems covered:
+- Find minimum element
+- Find maximum element
+- Reverse array
+- Count even and odd numbers
 
+(More will be added as I practice)
 
+---
+
+## 🎯 Goal
+To build strong DSA fundamentals for:
+- Coding interviews
+- Campus placements
+- Problem-solving skills
+
+---
+
+## 🛠 Language Used
+- Python 🐍
