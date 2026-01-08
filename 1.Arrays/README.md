@@ -13,3 +13,6 @@ Data Structures and Algorithms using Python.
 
 📅 Started: January 2026
 
+### Arrays
+
+
