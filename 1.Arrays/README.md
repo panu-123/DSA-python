@@ -23,6 +23,7 @@ Problems covered:
 - Find maximum element
 - Reverse array
 - Count even and odd numbers
+- Sum of Elements
 
 (More will be added as I practice)
 
@@ -38,3 +39,4 @@ To build strong DSA fundamentals for:
 
 ## 🛠 Language Used
 - Python 🐍
+
