@@ -5,4 +5,6 @@ for num in arr:
     sum+=num
 print(f"sum is {sum}")
 
+
 # output= sum is 39
+#print(sum(arr))..... shortcut
